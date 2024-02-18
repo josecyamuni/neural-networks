@@ -1,5 +1,5 @@
 # neural-networks
-Image Classification
+Image Classification. This project was documented through articles published in Medium:
 
 https://medium.com/@a01740285/comparative-analysis-of-image-classification-algorithms-svm-vs-multilayer-perceptron-ea794f42b3ce
 
